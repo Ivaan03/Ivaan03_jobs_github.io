@@ -1,0 +1,13 @@
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\bin\Debug\netcoreapp3.1\buscaminas.exe
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\bin\Debug\netcoreapp3.1\buscaminas.deps.json
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\bin\Debug\netcoreapp3.1\buscaminas.runtimeconfig.json
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\bin\Debug\netcoreapp3.1\buscaminas.runtimeconfig.dev.json
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\bin\Debug\netcoreapp3.1\buscaminas.dll
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\bin\Debug\netcoreapp3.1\buscaminas.pdb
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\obj\Debug\netcoreapp3.1\buscaminas.csprojAssemblyReference.cache
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\obj\Debug\netcoreapp3.1\buscaminas.AssemblyInfoInputs.cache
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\obj\Debug\netcoreapp3.1\buscaminas.AssemblyInfo.cs
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\obj\Debug\netcoreapp3.1\buscaminas.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\obj\Debug\netcoreapp3.1\buscaminas.dll
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\obj\Debug\netcoreapp3.1\buscaminas.pdb
+C:\Users\ivanp\source\repos\buscaminas\buscaminas\obj\Debug\netcoreapp3.1\buscaminas.genruntimeconfig.cache
