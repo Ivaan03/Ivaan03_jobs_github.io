@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivanp\\source\\repos\\buscaminas\\buscaminas\\buscaminas.csproj": {}
+    "C:\\Users\\ivanp\\OneDrive\\Documentos\\repos\\Ivaan03_jobs_github.io\\Ivaan03_jobs_github.io\\buscaminas\\buscaminas\\buscaminas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivanp\\source\\repos\\buscaminas\\buscaminas\\buscaminas.csproj": {
+    "C:\\Users\\ivanp\\OneDrive\\Documentos\\repos\\Ivaan03_jobs_github.io\\Ivaan03_jobs_github.io\\buscaminas\\buscaminas\\buscaminas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivanp\\source\\repos\\buscaminas\\buscaminas\\buscaminas.csproj",
+        "projectUniqueName": "C:\\Users\\ivanp\\OneDrive\\Documentos\\repos\\Ivaan03_jobs_github.io\\Ivaan03_jobs_github.io\\buscaminas\\buscaminas\\buscaminas.csproj",
         "projectName": "buscaminas",
-        "projectPath": "C:\\Users\\ivanp\\source\\repos\\buscaminas\\buscaminas\\buscaminas.csproj",
+        "projectPath": "C:\\Users\\ivanp\\OneDrive\\Documentos\\repos\\Ivaan03_jobs_github.io\\Ivaan03_jobs_github.io\\buscaminas\\buscaminas\\buscaminas.csproj",
         "packagesPath": "C:\\Users\\ivanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivanp\\source\\repos\\buscaminas\\buscaminas\\obj\\",
+        "outputPath": "C:\\Users\\ivanp\\OneDrive\\Documentos\\repos\\Ivaan03_jobs_github.io\\Ivaan03_jobs_github.io\\buscaminas\\buscaminas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
